@@ -1,0 +1,3 @@
+alias ls='ls -G'
+alias ll='ls -lG'
+export PATH="/usr/local/bin:/usr/local/bin/packer:/usr/local/bin/terraform:/usr/bin:/bin:/usr/sbin:/sbin:$PATH"
